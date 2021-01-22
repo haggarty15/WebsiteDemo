@@ -10,8 +10,8 @@ function App() {
     <Router>
       <Navbar />
       <Switch>
-        <Route path='/' exact componenet=
-        {Home}/>
+        <Route path='/' exact component=
+        {Home} />
       </Switch>
     </Router>
     </>
