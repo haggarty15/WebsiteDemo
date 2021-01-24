@@ -76,7 +76,7 @@ function Footer() {
               target='_blank'
               aria-label='Facebook'
             >
-              <i class='fab fa-facebook-f' />
+              <i class='fab fa-facebook-f'/>
             </Link>
             <Link
               class='social-icon-link instagram'
@@ -88,7 +88,7 @@ function Footer() {
             </Link>
             <Link
               class='social-icon-link youtube'
-              to='/'
+              to='https://youtube.com/'
               target='_blank'
               aria-label='Youtube'
             >
